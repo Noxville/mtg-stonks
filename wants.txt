@@ -1,0 +1,99 @@
+4	Expressive Iteration
+2	Kroxa, Titan of Death's Hunger
+4	Esper Sentinel
+4	Sigarda's Aid
+4	Urza's Saga
+4	Brazen Borrower // Petty Theft
+4	Pact of Negation
+4	Karn, the Great Creator
+4	Karn Liberated
+4	Ugin, the Spirit Dragon
+4	Ulamog, the Ceaseless Hunger
+4	Steelshaper's Gift 
+4	Death's Shadow
+4	Liliana, the Last Hope
+4	Chalice of the Void
+3	Dark Confidant 
+4	Ulamog, the Ceaseless Hunger
+4	All Is Dust
+1	Hall of Storm Giants
+4	Shark Typhoon
+4	Supreme Verdict
+1	Den of the Bugbear
+4	Murktide Regent
+4	Archmage's Charm
+4	Ragavan, Nimble Pilferer
+4	Solitude
+4	Grief
+4	Force of Negation
+4	Fury
+4	Endurance
+4	Prismatic Ending
+4	Ignoble Hierarch
+4	Grist, the Hunger Tide
+1	Yavimaya, Cradle of Growth
+2	Boseiju, Who Endures
+2	Otawara, Soaring City
+4	Memory Deluge
+4	Silent Clearing
+4	Waterlogged Grove
+4	Fiery Islet
+4	Nurturing Peatland
+4	Sunbaked Canyon
+4	Indatha Triome
+4	Ketria Triome
+4	Raugrin Triome
+4	Savai Triome
+4	Zagoth Triome
+4	Cascade Bluffs
+4	Fetid Heath
+4	Fire-Lit Thicket
+4	Flooded Grove
+4	Graven Cairns
+4	Mystic Gate
+4	Rugged Prairie
+4	Sunken Ruins
+4	Twilight Mire
+4	Wooded Bastion
+4	Blooming Marsh
+4	Botanical Sanctum
+4	Concealed Courtyard
+4	Inspiring Vantage
+4	Spirebluff Canal
+4	Razorverge Thicket
+4	Seachrome Coast
+4	Darkslick Shores
+4	Copperline Gorge
+4	Blackcleave Cliffs
+4	Hengegate Pathway // Mistgate Pathway
+4	Darkbore Pathway // Slitherbore Pathway
+4	Barkchannel Pathway // Tidechannel Pathway
+4	Blightstep Pathway // Searstep Pathway
+4	Clearwater Pathway // Murkwater Pathway
+4	Cragcrown Pathway // Timbercrown Pathway
+4	Branchloft Pathway // Boulderloft Pathway
+4	Needleverge Pathway // Pillarverge Pathway
+4	Brightclimb Pathway // Grimclimb Pathway
+4	Riverglide Pathway // Lavaglide Pathway
+3	Tarmogoyf
+4	Wrenn and Six
+4	Emrakul, the Aeons Torn
+4	Emrakul, the Promised End
+4	Auntie's Hovel
+2	Platinum Emperion
+4	Wurmcoil Engine
+4	Heliod, Sun-Crowned
+4	Jace, the Mind Sculptor
+2	Nahiri, the Harbinger
+4	Utopia Sprawl
+4	Skyclave Apparition
+4	Karn, the Great Creator
+4	Dryad of the Ilysian Grove
+4	Amulet of Vigor
+2	Valki, God of Lies // Tibalt, Cosmic Impostor
+4	Scourge of the Skyclaves
+4	Seasoned Pyromancer
+4	Elder Gargaroth
+4	Jace, Vryn's Prodigy // Jace, Telepath Unbound
+4	Linvala, Keeper of Silence
+4	Yawgmoth, Thran Physician
